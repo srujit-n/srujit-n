@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Srujit Reddy! 
+<h2>I'm Srujit Reddy!</h2>
 - <i>Currently:</i>  CS Undergrad at PES University ,Bangalore. 
 - <i>Working:</i>  Software Engineer Intern at Juniper Networks.
 
