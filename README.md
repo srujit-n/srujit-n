@@ -1,16 +1,17 @@
 ### Hi there 👋
+<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
+<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
-<!--
-**srujit-n/srujit-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Hey! 👋</h2>
 
-Here are some ideas to get you started:
+I'm Srujit Reddy! 
+- <i>Currently:</i>  CS Undergrad at PES University ,Bangalore. 
+- <i>Working:</i>  Software Engineer Intern at Juniper Networks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>💻 I'm Currently Learning</h2>
+
+<h2>👀 Stats</h2>
+
+<div>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=srujit-n&show_icons=true&theme=gotham" alt="srujit" />
+</div>
