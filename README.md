@@ -2,7 +2,7 @@
 
 
 <h2>I'm Srujit Reddy!</h2>
-- <i>Currently:</i>  CS Undergrad at PES University ,Bangalore. 
+- <i>Currently:</i>  CS Undergrad at PES University ,Bangalore. <br>
 - <i>Working:</i>  Software Engineer Intern at Juniper Networks.
 
 <h2>💻 I'm Currently Learning</h2>
